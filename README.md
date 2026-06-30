@@ -248,6 +248,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [ChatWithCloud](https://chatwithcloud.ai/) - CLI allowing you to interact with AWS Cloud using human language inside your Terminal.
 - [SinglebaseCloud](https://singlebase.cloud) - AI-powered backend platform with Vector DB, DocumentDB, Auth, and more to speed up app development.
 - [Maxim AI](https://www.getmaxim.ai/) - A generative AI evaluation and observability platform, empowering modern AI teams to ship products with quality, reliability, and speed.
+- [SNTL — Helium Intelligence](https://a2a.sntl.site) - Pay-per-call Helium/Solana DePIN threat & wallet intelligence over x402; $0.01 USDC, no signup, no API key.
 - [Wordware](https://www.wordware.ai) - A web-hosted IDE where non-technical domain experts work with AI Engineers to build task-specific AI agents. It approaches prompting as a new programming language rather than low/no-code blocks.
 - [CodeRabbit](https://coderabbit.ai/) - An AI-powered code review tool that helps developers improve code quality and productivity.
 - [Pagerly](https://www.pagerly.io) - Your Operations Co-pilot on Slack/Teams. It assists and prompts oncall with relevant information to debug issues.  
